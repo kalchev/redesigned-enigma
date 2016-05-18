@@ -1,1 +1,1 @@
-next linenext line
+next linenext linenext line\n
